@@ -1,8 +1,8 @@
 class Bedrock < Formula
   desc "XRPL smart contracts CLI tool"
   homepage "https://github.com/XRPL-Commons/Bedrock"
-  url "https://github.com/XRPL-Commons/Bedrock/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "df258a1d54201c650191ed0461aaffaf91caabda9ee79f1027bc14334ace4f2e"
+  url "https://github.com/XRPL-Commons/Bedrock/archive/refs/tags/v0.0.1.tar.gz"
+  sha256 "8f40cf37a9fb606fd234ea0345fb2623eb0c8cef49533cd30ca12e56750576f5"
   license "MIT"
   head "https://github.com/XRPL-Commons/Bedrock.git", branch: "main"
 
